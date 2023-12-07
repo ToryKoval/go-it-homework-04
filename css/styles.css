@@ -7,7 +7,16 @@ ol {
     margin-bottom: 0;
     padding-left: 0;
 }
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
 img {
     display: block;
 }
@@ -451,7 +460,6 @@ padding: 120px 0 120px 0;
 }
 
 .portfolio-card-title {
-    padding: 32px 16px;
     border-top: none;
     color: #2E2F42;
     font-size: 20px;
